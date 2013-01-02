@@ -3,10 +3,18 @@ TracTicketLimitPlugin
 
 Trac plugin to limit ticket creation to a fixed number per day per user.
 
+Plugin developed for [Missing Pixel Studios, Inc.](http://www.missingpixelstudios.com/ "Missing Pixel Studios") by [BitStruct, LLC](http://www.bitstruct.com "BitStruct, LLC").
+
 Install
 -------
 
 console# ./setup.py install
+
+Source
+------
+
+The source is available from:
+http://github.com/bitstruct/TracTicketLimitPlugin
 
 Configuration
 -------------
